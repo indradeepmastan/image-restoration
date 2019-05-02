@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+
+title: Image Restoration
+description: In this project, we study the various variations of encoder-decoder networks for image restoration, and give qualitative and quantitative performance measures of various networks for Denoising, Super-resolution, Inpainting, and Flash-no-flash.
+
+
+
+logo: images/MEDS_Banner.png
+show_downloads: true
+
+
+
