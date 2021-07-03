@@ -20,4 +20,3 @@ Inpainting involves computing missing pixel values in the corrupted image in usi
 ### Flash/no-Flash
 Given flash/no-flash image pair, the objective is to obtain a high-quality image which incorporates details of the scene from the flash image and ambient illumination from the no-flash image. The Tensorboard files for the results will be provided soon.
 
-<iframe src="https://slides.com/indradeepmastan/deck-9fe4fa/embed?token=0h1U47FN" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
